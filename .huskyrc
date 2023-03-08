@@ -1,0 +1,6 @@
+{
+	"hooks": {
+		"pre-commit": false,
+		"pre-push": false
+	}
+}
